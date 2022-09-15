@@ -88,10 +88,10 @@ Sample User Logins
 admin@example.com (Admin)
 123456
 
-john@example.com (Customer)
+yogesh@example.com (Customer)
 123456
 
-jane@example.com (Customer)
+dushant@example.com (Customer)
 123456
 ```
 
