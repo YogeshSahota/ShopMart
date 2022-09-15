@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-![screenshot](https://github.com/YogeshSahota/ShopMart/main/uploads/ss.png)
+![screenshot](https://github.com/YogeshSahota/ShopMart/blob/main/uploads/ss.png)
 
 ## Features
 
